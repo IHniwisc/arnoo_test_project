@@ -1,3 +1,18 @@
 [submodule "arnoo_test"]
 	path = arnoo_test
 	url = https://github.com/likevintw/arnoo_test.git
+[submodule "input/package_image"]
+	path = input/package_image
+	url = http://172.25.11.86:8080/kevinli/package_image.git
+[submodule "input/package"]
+	path = input/package
+	url = http://172.25.11.86:8080/kevinli/package_image.git
+[submodule "input/human"]
+	path = input/human
+	url = http://172.25.11.86:8080/kevinli/human_image.git
+[submodule "input/pet"]
+	path = input/pet
+	url = http://172.25.11.86:8080/kevinhsu/pet_image.git
+[submodule "input/vehicle"]
+	path = input/vehicle
+	url = http://172.25.11.86:8080/kevinhsu/vehicle_image.git
