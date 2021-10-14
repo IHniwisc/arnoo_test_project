@@ -1,0 +1,3 @@
+[submodule "arnoo_test"]
+	path = arnoo_test
+	url = https://github.com/likevintw/arnoo_test.git
