@@ -1,6 +1,6 @@
 [submodule "arnoo_test"]
 	path = arnoo_test
-	url = git@github.com:likevintw/arnoo_test.git
+	url = https://github.com/likevintw/arnoo_test.git 
 [submodule "input/package"]
 	path = input/package
 	url = http://172.25.11.86:8080/kevinli/package_image.git
