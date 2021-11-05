@@ -13,3 +13,6 @@
 [submodule "input/vehicle"]
 	path = input/vehicle
 	url = http://172.25.11.86:8080/kevinhsu/vehicle_image.git
+[submodule "input/flame"]
+	path = input/flame
+	url = http://172.25.11.86:8080/kevinli/flame.git
